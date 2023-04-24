@@ -31,6 +31,11 @@ Mejorar la interfaz de usuario mediante el uso de bibliotecas de terceros para c
 Para utilizar la aplicación de notas, sigue los siguientes pasos:
 
 Clona o descarga este repositorio en tu computadora.
+
+```git
+git clone 
+```
+
 Abre una ventana de terminal en el directorio del proyecto.
 Crea un archivo main.py con Python 3 para iniciar la aplicación.
 
