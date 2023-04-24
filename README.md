@@ -55,10 +55,14 @@ python main.py
 ```
 
 2.
-**Puedes configurar desde cero el proyecto tu mismo creando tu propia estructura.**
+**Puedes configurar desde cero el proyecto tu puedes crear tu propia estructura.**
 
 ¡Sientete libre de contribuir a este proyecto! Puedes hacerlo mediante la apertura de un "pull request" con tus mejoras o correcciones.
 
 ## Licencia
 
 Este proyecto se encuentra bajo la Licencia MIT, la cual permite su uso y modificación de forma gratuita, siempre y cuando se incluya el aviso de licencia en los archivos modificados.
+
+## Importante
+
+* Recuerda que todos comenzamos como principiantes en algún momento. Es normal sentirse abrumado o confundido al principio, pero no te rindas. Cada pequeño paso que tomes en tu aprendizaje cuenta y te acerca más a tus metas.
