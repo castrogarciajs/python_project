@@ -40,7 +40,12 @@ Abre una ventana de terminal en el directorio del proyecto.
 
 Ejecuta el archivo main.py con la version de Python 3 para iniciar la aplicación.
 
+```py
+python main.py
+```
+
 ¡Sientete libre de contribuir a este proyecto! Puedes hacerlo mediante la apertura de un "pull request" con tus mejoras o correcciones.
 
 ## Licencia
+
 Este proyecto se encuentra bajo la Licencia MIT, la cual permite su uso y modificación de forma gratuita, siempre y cuando se incluya el aviso de licencia en los archivos modificados.
