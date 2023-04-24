@@ -55,7 +55,7 @@ python main.py
 ```
 
 2.
-Puedes configurar desde cero el proyecto tu mismo creando tu propia estructura.
+**Puedes configurar desde cero el proyecto tu mismo creando tu propia estructura.**
 
 ¡Sientete libre de contribuir a este proyecto! Puedes hacerlo mediante la apertura de un "pull request" con tus mejoras o correcciones.
 
