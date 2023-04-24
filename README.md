@@ -38,4 +38,4 @@ Crea un archivo main.py con Python 3 para iniciar la aplicación.
 ## Licencia
 Este proyecto se encuentra bajo la Licencia MIT, la cual permite su uso y modificación de forma gratuita, siempre y cuando se incluya el aviso de licencia en los archivos modificados.
 
-**A desarrolla...r**
+**A desarrolla...**
