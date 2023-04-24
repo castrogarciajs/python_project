@@ -15,6 +15,17 @@ La aplicación de notas debe ofrecer las siguientes funcionalidades:
 Requisitos
 La aplicación de notas requiere Python 3.x para funcionar correctamente.
 
+## Mejoras posibles
+Para mejorar esta aplicación y practicar más conceptos de programación en Python, se pueden considerar las siguientes ideas:
+
+Implementar una funcionalidad de búsqueda avanzada que permita buscar notas por fecha, etiquetas u otros criterios.
+Añadir opciones de formato de texto en las notas, como negrita, cursiva o subrayado.
+Implementar una funcionalidad de categorización o etiquetado de notas para organizarlas mejor.
+Mejorar la interfaz de usuario mediante el uso de bibliotecas de terceros para crear interfaces gráficas de usuario (GUI).
+Implementar pruebas unitarias para asegurar la calidad y robustez del código.
+Agregar la capacidad de exportar notas en diferentes formatos, como PDF o CSV.
+¡Diviértete explorando y mejorando esta aplicación de notas en Python! Espero que te sea útil para practicar tus habilidades de programación como estudiante principiante.
+
 ## Uso
 Para utilizar la aplicación de notas, sigue los siguientes pasos:
 
