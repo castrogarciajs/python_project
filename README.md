@@ -37,9 +37,10 @@ Mejorar la interfaz de usuario mediante el uso de bibliotecas de terceros para c
 - Proporcionar comentarios y retroalimentación
 
 ## Uso
+1. 
 Para utilizar la aplicación de notas, sigue los siguientes pasos:
 
-Clona o descarga este repositorio en tu computadora.
+puedes clonar o descarga este repositorio en tu computadora.
 
 ```git
 git clone https://github.com/sebastian01w/python_project.git
@@ -52,6 +53,9 @@ Ejecuta el archivo main.py con la version de Python 3 para iniciar la aplicació
 ```py
 python main.py
 ```
+
+2.
+Puedes configurar desde cero el proyecto tu mismo creando tu propia estructura.
 
 ¡Sientete libre de contribuir a este proyecto! Puedes hacerlo mediante la apertura de un "pull request" con tus mejoras o correcciones.
 
