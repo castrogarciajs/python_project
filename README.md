@@ -1,5 +1,3 @@
-
-
 # Aplicación de Notas
 Esta es una aplicación de notas en Python que permite a los usuarios crear, leer, actualizar y eliminar notas mediante una interfaz de línea de comandos (CLI).
 
@@ -25,7 +23,18 @@ Mejorar la interfaz de usuario mediante el uso de bibliotecas de terceros para c
 - Implementar pruebas unitarias para asegurar la calidad y robustez del código.
 - Agregar la capacidad de exportar notas en diferentes formatos, como PDF o CSV.
 
-¡Diviértete explorando y mejorando esta aplicación de notas en Python! Espero que te sea útil para practicar tus habilidades de programación como estudiante principiante.
+¡Espero que te sea útil para practicar tus habilidades de programación como estudiante principiante.!
+
+## Requesitos
+
+- Utilizar un enfoque modular: Fomentar la creación de funciones o clases separadas para cada funcionalidad de la aplicación, como crear, leer, actualizar, eliminar notas, y guardar/cargar notas desde un archivo.
+
+- Mantener un código limpio y legible: Enfatizar la importancia de escribir un código claro y legible, con nombres de variables y funciones descriptivos, comentarios adecuados y estructura de código organizada.
+
+- Manejo de errores y excepciones: Fomentar el manejo adecuado de errores y excepciones en el código, incluyendo la validación de la entrada del usuario y la prevención de errores inesperados.
+
+
+- Proporcionar comentarios y retroalimentación
 
 ## Uso
 Para utilizar la aplicación de notas, sigue los siguientes pasos:
